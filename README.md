@@ -4,13 +4,13 @@ Joc pe matricea de LED-uri
 Mihaela Nistor 352
 
 Titlu:
-        Spaceships
+           Spaceships
 
 Descriere:
-        O nava traverseaza spatiul cosmic si trebuie sa se fereasca de asteroizi sau sa ii distruga cu rachete pentru a-si face loc printre ei. Cu cat inainteaza mai mult, asteroizii incep sa fie mai desi, iar nava prinde din ce in ce mai multa viteza.
+           O nava traverseaza spatiul cosmic si trebuie sa se fereasca de asteroizi sau sa ii distruga cu rachete pentru a-si face loc printre ei. Cu cat inainteaza mai mult, asteroizii incep sa fie mai desi, iar nava prinde din ce in ce mai multa viteza.
 
 Implementare:
-        Inainte de a incepe jocul, se afiseaza pe LCD un meniu cu doua linii: “Start!” si “Schimba nivel: 1”. Cu joystick-ul in sus si in jos se schimba linia din meniu, iar cu butonul se selecteaza. Daca e selectata prima linie incepe jocul, daca e selectata a doua creste nivelul pana la 7 apoi o ia din nou de la 1. In timpul jocului vor fi afisate: numarul de vieti, nivelul si scorul curent.
+           Inainte de a incepe jocul, se afiseaza pe LCD un meniu cu doua linii: “Start!” si “Schimba nivel: 1”. Cu joystick-ul in sus si in jos se schimba linia din meniu, iar cu butonul se selecteaza. Daca e selectata prima linie incepe jocul, daca e selectata a doua creste nivelul pana la 7 apoi o ia din nou de la 1. In timpul jocului vor fi afisate: numarul de vieti, nivelul si scorul curent.
 
 Coordonatele jucatorului sunt globale, la fel si matricile cu coordonatele obstacolelor si a rachetelor pentru a fi mai usor de verificat coliziunile.
 
