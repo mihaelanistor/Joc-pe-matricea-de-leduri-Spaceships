@@ -29,6 +29,7 @@ Intr-o iteratie prin loop se parcurg cativa pasi:
     - Se sterg datele de pe LCD
 
 Testare:
+
     Meniu:
     
     Joystick:     -axa Ox:     parcurgere meniu
