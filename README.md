@@ -45,6 +45,7 @@ Testare:
     
 
 Componente folosite:
+
            -Joystick
            -Buton
            -Matrice de led-uri 8x8
