@@ -14,6 +14,7 @@ Implementare:
 Coordonatele jucatorului sunt globale, la fel si matricile cu coordonatele obstacolelor si a rachetelor pentru a fi mai usor de verificat coliziunile.
 
 Intr-o iteratie prin loop se parcurg cativa pasi:
+
     -Se verifica daca jocul e in curs sau e pe cale sa inceapa si se afiseaza meniul corespunzator
     -Se verifica daca jocul s-a terminat (numar vieti == 0), daca da, se afiseaza pe LCD scorul si nivelul la care s-a terminat jocul
     -Se ruleaza joc:
