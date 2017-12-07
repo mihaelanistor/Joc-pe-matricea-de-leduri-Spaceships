@@ -442,7 +442,7 @@ void lanseazaRachete()
 {
   int valoareButon, valoareSwitch;
 
-  const int intervalIntreRachete = 130;
+  const int intervalIntreRachete = 200;
   const int delayRachete = 100; // la cate milisecunde actualizez matricea cu rachete: cu cat valoarea e mai mica rachetele se misca mai repede
   
   //pot sa trag si cu butonul si cu sw de la joystick
