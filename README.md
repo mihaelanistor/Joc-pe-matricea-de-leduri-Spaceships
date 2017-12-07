@@ -42,7 +42,15 @@ Testare:
                   -button      lanseaza rachete
 
     Button:                    lanseaza rachete
+    
 
+Componente folosite:
+           -Joystick
+           -Buton
+           -Matrice de led-uri 8x8
+           -Driver MAX7219
+           -LCD
+           
 
 Link video:
 https://drive.google.com/open?id=1LtSV_Ez7yV_GgDHHwrnc6uo9pxF_sGXz
