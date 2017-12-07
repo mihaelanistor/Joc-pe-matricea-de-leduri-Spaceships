@@ -21,7 +21,7 @@ Intr-o iteratie prin loop se parcurg cativa pasi:
     -Se verifica daca jocul s-a terminat (numar vieti == 0), daca da, se afiseaza pe LCD scorul si nivelul la care s-a terminat jocul
     -Se ruleaza joc:
             - se calculeaza coordonatele jucatorului
-            - se genereaza obstacole noi (numarul lor si distanta dintre ele depinde de nivel);
+            - se genereaza obstacole noi (viteza lor si distanta dintre ele depinde de nivel);
             - se deseneaza rachetele noi daca este apasat butonul sau joystick-ul
             - se deseneaza rachetele, obstacolele si jucatorul
         	- se verifica daca rachetele se intalnesc cu obstacolele; daca da, se sterge si racheta si obstacolul si se adauga 10   puncte la scor
