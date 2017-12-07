@@ -1,6 +1,7 @@
 # Joc-pe-matricea-de-leduri-Spaceships
 
 Joc pe matricea de LED-uri
+
 Mihaela Nistor 352
 
 Titlu:
@@ -42,3 +43,6 @@ Testare:
 
     Button:                    lanseaza rachete
 
+
+Link video:
+https://drive.google.com/open?id=1LtSV_Ez7yV_GgDHHwrnc6uo9pxF_sGXz
